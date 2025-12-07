@@ -1,1 +1,4 @@
 /env
+/data
+/gan_outputs/gan_checkpoint.pt
+/gan_outputs_cifar/gan_checkpoint_cifar.pt
