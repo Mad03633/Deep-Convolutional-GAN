@@ -1,10 +1,10 @@
 # DCGAN for MNIST & CIFAR-10 — PyTorch Implementation
 
-This repository contains a complete and modular implementation of Deep Convolutional GAN (DCGAN) trained on:
+- This repository contains a complete and modular implementation of Deep Convolutional GAN (DCGAN) trained on:
     - MNIST (1-channel, 32×32)
     - CIFAR-10 (3-channel, 32×32)
 
-Features:
+- Features:
     - Custom Generator & Discriminator
     - Full DCGAN-style weights initialization
     - Label smoothing for stability
