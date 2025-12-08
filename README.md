@@ -52,4 +52,4 @@ Plots generated:
 ## Example MNIST Results
 
 - fake epoch - 5:
-    ![](gan_outputs\fake_epoch_5.png)
+    ![](gan_outputs/fake_epoch_5.png)
