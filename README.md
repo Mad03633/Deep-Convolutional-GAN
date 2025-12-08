@@ -53,3 +53,14 @@ Plots generated:
 
 - fake epoch - 5:
     - ![](gan_outputs/fake_epoch_5.png)
+
+- fake epoch - 50:
+    - ![](gan_outputs/fake_epoch_50.png)
+
+## Example CIFAR-10 Results
+
+- fake epoch - 5:
+    - ![](gan_outputs_cifar/fake_epoch_5.png)
+
+- fake epoch - 50:
+    - ![](gan_outputs_cifar/fake_epoch_50.png)
